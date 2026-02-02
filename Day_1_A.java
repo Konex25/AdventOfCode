@@ -1,5 +1,5 @@
 /*
---- Day 1: Part Two ---
+Day 1 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
 Answer: 1147 

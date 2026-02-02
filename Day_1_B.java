@@ -1,9 +1,7 @@
 /*
---- Day 1: Secret Entrance - Part Two ---
+Day 1 Part 2
 Author: 292680
-https://github.com/Konex25/AdventOfCode
-git 
-Answer Part 1: 1147 
+Github: https://github.com/Konex25/AdventOfCode
 Answer Part 2: 6789
 */
 
