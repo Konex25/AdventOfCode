@@ -2,6 +2,8 @@
 Day 4 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program simulates removing accessible paper rolls iteratively.
+After each removal, some rolls become accessible. It keeps removing until none are left.
 Answer: 8899
 */
 

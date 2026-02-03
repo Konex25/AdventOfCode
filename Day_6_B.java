@@ -2,6 +2,8 @@
 Day 6 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program solves cephalopod math (right-to-left reading).
+Each column is a separate number read from top to bottom.
 Answer: 9348430857627
 */
 

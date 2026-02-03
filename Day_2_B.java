@@ -2,6 +2,9 @@
 Day 2 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program finds invalid product IDs with a looser rule.
+An ID is invalid if it contains ANY repeating pattern (like 123123 or 77777).
+It sums up all these invalid IDs.
 Answer: 20942028255
 */
 

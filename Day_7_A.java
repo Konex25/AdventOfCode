@@ -2,6 +2,8 @@
 Day 7 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program simulates tachyon beams splitting through a manifold.
+It counts how many unique splitter positions get hit by the beams.
 Answer: 1562
 */
 

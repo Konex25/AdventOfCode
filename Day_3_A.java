@@ -2,6 +2,8 @@
 Day 3 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program picks 2 batteries from each bank to form the highest 2-digit number.
+It tries all possible pairs and finds the maximum joltage for each bank.
 Answer: 17383
 */
 

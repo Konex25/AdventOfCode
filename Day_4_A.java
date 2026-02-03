@@ -2,6 +2,8 @@
 Day 4 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program counts paper rolls that can be accessed by a forklift.
+A roll is accessible if it has fewer than 4 adjacent rolls (in 8 directions).
 Answer: 1480
 */
 

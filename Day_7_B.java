@@ -2,6 +2,8 @@
 Day 7 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program counts quantum timelines (different paths) through the manifold.
+Uses recursion with memoization to handle the exponential number of timelines efficiently.
 Answer: 24292631346665
 */
 

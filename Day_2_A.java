@@ -2,6 +2,9 @@
 Day 2 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program finds invalid product IDs within given ranges.
+An ID is invalid if it's a pattern repeated exactly twice (like 12341234).
+It sums up all these invalid IDs.
 Answer: 12599655151
 */
 

@@ -2,6 +2,8 @@
 Day 3 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program picks exactly 12 batteries from each bank using a greedy algorithm.
+It always picks the highest available digit that leaves enough batteries for remaining picks.
 Answer: 172601598658203
 */
 

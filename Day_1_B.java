@@ -2,7 +2,9 @@
 Day 1 Part 2
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
-Answer Part 2: 6789
+This program simulates a dial rotation but counts EVERY time the dial passes through 0
+during each rotation (click by click), not just the final position.
+Answer: 6789
 */
 
 import java.io.BufferedReader;

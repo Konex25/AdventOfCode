@@ -2,6 +2,8 @@
 Day 1 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program simulates a dial (0-99) that rotates left or right.
+It counts how many times the dial lands on position 0 after each rotation.
 Answer: 1147 
 */
 
@@ -9,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Day_1 {
+public class Day_1_A {
     public static void main(String[] args) {
         
         int position = 50; // starting position of the dial

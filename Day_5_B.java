@@ -2,6 +2,8 @@
 Day 5 Part B
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program counts ALL ingredient IDs covered by fresh ranges.
+It merges overlapping ranges and counts total unique IDs in the merged ranges.
 Answer: 359913027576322
 */
 

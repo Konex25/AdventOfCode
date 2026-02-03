@@ -1,7 +1,7 @@
 /*
-Day 6 Part A
-Author: 292680
-Github: https://github.com/Konex25/AdventOfCode
+Day 6: Trash Compactor - Part A
+This program solves vertical math problems arranged horizontally.
+Each problem is a set of numbers stacked vertically with an operation at the bottom.
 Answer: 4449991244405
 */
 

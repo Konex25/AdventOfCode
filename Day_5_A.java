@@ -2,6 +2,8 @@
 Day 5 Part A
 Author: 292680
 Github: https://github.com/Konex25/AdventOfCode
+This program checks ingredient IDs against fresh ingredient ranges.
+It counts how many available IDs fall within any of the fresh ranges.
 Answer: 840
 */
 
